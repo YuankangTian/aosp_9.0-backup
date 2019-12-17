@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/frameworks/base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/ims" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/telephony" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/ril" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/apps/Dialer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/services/Telecomm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/services/Telephony" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\build" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\frameworks\native" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\frameworks\opt\net\ethernet" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\frameworks\opt\net\ike" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\frameworks\opt\net\lowpan" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\frameworks\opt\net\voip" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\frameworks\opt\net\wifi" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\frameworks\support" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\apps\AlarmClock" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\apps\Browser2" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\apps\Camera2" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\apps\CarrierConfig" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\apps\CellBroadcastReceiver" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\apps\Messaging" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\providers\CallLogProvider" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\providers\ContactsProvider" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\providers\DownloadProvider" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\providers\MediaProvider" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\providers\TelephonyProvider" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\providers\TvProvider" vcs="Git" />
+    <mapping directory="D:\Program Files\AOSP_\android_Q\packages\providers\UserDictionaryProvider" vcs="Git" />
+  </component>
+</project>
